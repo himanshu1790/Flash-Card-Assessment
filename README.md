@@ -18,7 +18,7 @@ If the AI API fails for any reason, the app *automatically falls back* to a hard
 
 ### 1. Clone the Repository
 
-```git clone https://github.com/YOUR_USERNAME/fastapi-flashcard-ai.git``` <br>
+```git clone https://github.com/himanshu1790/Flash-Card-Assessment.git``` <br>
 ```cd fastapi-flashcard-ai```
 
 
