@@ -28,7 +28,7 @@ If the AI API fails for any reason, the app *automatically falls back* to a hard
 
 ## Running the Server
 
-```uvicorn FlashCardAssessment:app -- reload```
+```uvicorn FlashCardAssessment:app --reload```
 
 
 ### Open your browser at:
